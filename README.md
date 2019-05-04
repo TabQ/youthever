@@ -1,2 +1,2 @@
 # youthever
-以python、flask构建的社区系统
+人生苦短，青春永在，以2019年五四青年节创建的youthever社区系统，纪念人生中最宝贵的青春！
